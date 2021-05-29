@@ -1,5 +1,5 @@
 # Colab
 
-## To build classification tools for OCR PDF
+## Learning Materials:
 1. Active Learning
 2. OCR with tesseract
